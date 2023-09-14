@@ -1,0 +1,24 @@
+img{
+    width: 800px;
+}
+p{  
+    color: red;
+}
+div{
+    border:2px solid red;
+    width: 70%;
+    margin: 0 auto;
+    border-radius: 100px;
+    padding: 30px;
+}
+.text{
+    color: red;
+}
+img{
+    width: 800px;
+}
+span{
+    color:rgb(109, 40, 173) ;
+    text-transform: uppercase;
+    text-decoration:overline underline;
+}
